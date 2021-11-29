@@ -1,4 +1,3 @@
-
 Peliculas=[
     {
     'nompre': "mad max",
@@ -6,7 +5,7 @@ Peliculas=[
     'recena': "esta buena",
     'duracion': 60,
     'en_exposicon': False,
-    'fecha_de_estreno': "04/07/2017",
+    'fecha_de_estreno': "2017",
     },
     {
     'nompre': "vierenes 13",
@@ -14,7 +13,7 @@ Peliculas=[
     'recena': "esta mas o menos",
     'duracion': 90,
     'en_exposicon': True,
-    'fecha_de_estreno': "04/07/1997",
+    'fecha_de_estreno': "1997",
     },
     {
     'nompre': "robocop",
@@ -22,7 +21,7 @@ Peliculas=[
     'recena': "esta increible",
     'duracion': 60,
     'en_exposicon': False,
-    'fecha_de_estreno': "04/07/1998",
+    'fecha_de_estreno': "1998",
     },
     {
     'nompre': "ted",
@@ -30,7 +29,7 @@ Peliculas=[
     'recena': "esta chiatosa",
     'duracion': 60,
     'en_exposicon': False,
-    'fecha_de_estreno': "04/07/2012",
+    'fecha_de_estreno': "2012",
     },
      {
     'nompre': "ted2",
@@ -38,9 +37,7 @@ Peliculas=[
     'recena': "esta chiatosa",
     'duracion': 60,
     'en_exposicon': False,
-    'fecha_de_estreno': "04/07/2020",
+    'fecha_de_estreno': "2020",
     }
 
 ]
-
-
